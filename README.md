@@ -1,5 +1,11 @@
 # pygame-sudoku
 
+#Output<img width="535" height="6<img width="538" height="639" alt="Screenshot 2025-07-18 at 11 37 38 PM" src="https://github.com/user-attachments/assets/852b421c-9532-4946-b313-1333ba438666" />
+38" alt="Screenshot 2025-07-18<img width="539" height="640" alt="Screenshot 2025-07-18 at 11 37 49 PM" src="https://github.com/user-attachments/assets/42378672-82c5-4a00-b339-fed13fd2605a" />
+ at 11 37 12 PM" src="https://github.com/user-attachments/assets/7be99c2d-7989-4186-8e13-be6d2f16c8a7" />
+ 
+
+
 A graphical Sudoku game built with Pygame, featuring multiple difficulty levels and an inference engine solver.
 
 ## Features
