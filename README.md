@@ -35,26 +35,32 @@ Get hints
 ===========
 
 🧰 Requirements
+
 Python 3.7+
+
 Pygame
 
 ===========
 🚀 Setup
 
 1) Clone the repository:
-   git clone https://github.com/yourusername/pygame-sudoku.git
-   cd pygame-sudoku
+2) git clone https://github.com/yourusername/pygame-sudoku.git
+3) cd pygame-sudoku
    
 2 ) Install dependencies:
 
    python3 -m pip install --break-system-packages pygame
 
 Or, using a virtual environment:
+
   python3 -m venv venv
+  
   source venv/bin/activate
+  
   pip install pygame
 
 3 ) ▶️ Running the Game
+
   python3 sudoku.py
 
 
