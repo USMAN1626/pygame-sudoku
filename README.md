@@ -41,6 +41,7 @@ Python 3.7+
 Pygame
 
 ===========
+
 🚀 Setup
 
 1) Clone the repository:
