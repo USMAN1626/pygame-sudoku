@@ -25,8 +25,11 @@ Solved Board
 ✅ Features
 
 Play Sudoku with a clean GUI
+
 Multiple difficulty levels
+
 Solve the board automatically (with two solver options)
+
 Get hints
 
 ===========
