@@ -68,18 +68,16 @@ Or, using a virtual environment:
 
 🕹️ Controls
 Mouse: Select cells and use buttons (Solve, Hint, Reset)
+
 Keyboard:
+
 1–9: Enter numbers
+
 Delete / Backspace: Clear cell
+
 Enter: Confirm entry
 
 ===========
-
-📁 Files
-sudoku.py: Main game file
-sudoku_solver_IE.py: Inference engine solver module
-sudoku_solver.py: (Optional) Additional solver module
-==========
 
 📄 License
   @USMAN1626
